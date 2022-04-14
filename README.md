@@ -1,3 +1,3 @@
-# Fruitify
+# Frutify
 
-live on https://hridoykhandakar.github.io/Fruitify/
+live on https://hridoykhandakar.github.io/Frutify/
